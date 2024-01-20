@@ -1,0 +1,12 @@
+{
+  "name": "cov_password_generator",
+  "version": "2.0.0",
+  "description": "Random password generator",
+  "main": "password_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Olesa Tsehlo",
+  "license": "ISC"
+}

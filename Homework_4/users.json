@@ -1,0 +1,58 @@
+[
+  {
+    "firstName": "Fedor",
+    "secondName": "Sidorov",
+    "age": 45,
+    "city": "Syla",
+    "id": "1706455800705"
+  },
+  {
+    "firstName": "Sergey",
+    "secondName": "Simonov",
+    "age": 27,
+    "city": "Vitebsk",
+    "id": "1706455802167"
+  },
+  {
+    "firstName": "Ivan",
+    "secondName": "Ivanov",
+    "age": 15,
+    "city": "Smolensk",
+    "id": "1706455803325"
+  },
+  {
+    "firstName": "Igor",
+    "secondName": "Shakhov",
+    "age": 29,
+    "city": "Bern",
+    "id": "1706455804377"
+  },
+  {
+    "firstName": "Nikholai",
+    "secondName": "Sidorov",
+    "age": 65,
+    "city": "Samara",
+    "id": "1706455805890"
+  },
+  {
+    "firstName": "Ivan",
+    "secondName": "Sidorov",
+    "age": 25,
+    "city": "Somali",
+    "id": "1706455807174"
+  },
+  {
+    "firstName": "Mikhail",
+    "secondName": "Svetlov",
+    "age": "50",
+    "city": "Omsk",
+    "id": "1706456884120"
+  },
+  {
+    "firstName": "Dmitry",
+    "secondName": "Grigorovich",
+    "age": 35,
+    "city": "Minsk",
+    "id": "1706457421080"
+  }
+]
